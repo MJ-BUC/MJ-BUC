@@ -9,11 +9,6 @@
 - 🥅 2021 - 2022 Goals: Contribute more to the open source community
 - ⚡ Fun fact: I love sketching and playing Clarinet / Piano
 
-### Connect with me:
-
-[<img align="left" alt="MJ-BUC | LinkedIn" width="22px" src=" " />][linkedin]
-
-
 <br />
 
 ### Languages and Tools:
