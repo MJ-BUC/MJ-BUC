@@ -23,7 +23,3 @@
 
 <br />
 <br />
-
----
-
-[linkedin]: mylinkedinpage
