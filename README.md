@@ -26,6 +26,6 @@
 <br />
 
 
-📊 My GitHub Stats
+### 📊 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MJ-BUC&show_icons=true&theme=gotham" alt="Marks's GitHub stats" />
