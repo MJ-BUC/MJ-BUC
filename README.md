@@ -3,7 +3,7 @@
 
 ## I'm a Student, Developer, Outdoorsman, Artist, Musician!!
 
-- 🔭 I recently finished creating my first Discord Bot!
+- 🔭 I recently finished creating another Discord Bot!
 - 🌱 I’m currently learning Web Application Development
 - 📖 I’m looking to learn more about the field of machine learning
 - 🥅 2021 - 2022 Goals: Contribute more to the open source community
