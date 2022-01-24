@@ -6,7 +6,7 @@
 - 🔭 I recently finished creating another Discord Bot!
 - 🌱 I’m currently learning Web Application Development
 - 📖 I’m looking to learn more about the field of machine learning
-- 🥅 2021 - 2022 Goals: Contribute more to the open source community
+- 🥅 2022 - 2023 Goals: Contribute more to the open source community
 - ⚡ Fun fact: I love sketching and playing Clarinet / Piano
 
 <br />
