@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Web Application Development
 - 📖 I’m looking to learn more about the field of machine learning
 - 🥅 2022 - 2023 Goals: Contribute more to the open source community
-- ⚡ Fun fact: I enjoy sketching and playing Clarinet / Piano
+- ⚡ Fun fact: I enjoy sketching and playing many Instruments
 
 <br />
 
