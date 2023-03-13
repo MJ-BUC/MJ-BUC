@@ -19,7 +19,8 @@
 <img align="left" alt="c" width="26px" src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/c/c.png?raw=true" />
 <img align="left" alt="c++" width="26px" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
 <img align="left" alt="c#" width="26px" src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/csharp/csharp.png?raw=true" />
-<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/6463980/28998869-97bca9dc-7a03-11e7-8a95-3bbe9c1f7926.png" />
+<img align="left" alt="Kotlin" width="26px" src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/kotlin/kotlin.png?raw=true" />
+<img align="left" alt="Javascript" width="26px" src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript.png?raw=true" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
