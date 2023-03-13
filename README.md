@@ -3,10 +3,10 @@
 
 ## I'm a Student, Developer, Outdoorsman, Artist, Musician!!
 
-- 🔭 I recently finished creating another Discord Bot!
-- 🌱 I’m currently learning Web Application Development
+- 🔭 I recently finished creating my own web browser
+- 🌱 I’m currently learning game development with Unity
 - 📖 I’m looking to learn more about the field of machine learning
-- 🥅 2022 - 2023 Goals: Contribute more to the open source community
+- 🥅 2023 - 2024 Goals: Contribute more to the open source community
 - ⚡ Fun fact: I enjoy sketching and playing many Instruments
 
 <br />
