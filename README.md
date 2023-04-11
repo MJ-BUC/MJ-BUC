@@ -34,6 +34,10 @@
 
 ### 📊 My GitHub Stats
 
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=MJ-BUC&&style=flat-square" align="center" />
+</div>  
+
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=MJ-BUC&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="left" />
 </div>
