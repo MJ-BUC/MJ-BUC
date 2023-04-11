@@ -35,5 +35,5 @@
 ### 📊 My GitHub Stats
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=MJ-BUC&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center" />
+   <img src="https://github-readme-stats.vercel.app/api?username=MJ-BUC&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="left" />
 </div>
