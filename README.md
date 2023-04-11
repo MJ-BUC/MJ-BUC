@@ -33,6 +33,8 @@
 
 
 ### 📊 My GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MJ-BUC&layout=compact&theme=synthwave&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=MJ-BUC&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="left" />
 </div>
