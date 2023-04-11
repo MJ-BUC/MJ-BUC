@@ -34,4 +34,6 @@
 
 ### 📊 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MJ-BUC&show_icons=true&theme=gotham" alt="Marks's GitHub stats" />
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=MJ-BUC&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center" />
+</div>
