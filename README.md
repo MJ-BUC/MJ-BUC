@@ -1,12 +1,12 @@
 # Hi there, I'm Mark 👋
 
 
-## I'm a Student, Developer, Outdoorsman, Artist, Musician!!
+## I'm a Developer, Outdoorsman, Artist, Musician!!
 
 - 🔭 I recently finished creating my own web browser
-- 🌱 I’m currently learning game development with Unity
-- 📖 I’m looking to learn more about the field of machine learning
-- 🥅 2023 - 2024 Goals: Contribute more to the open source community
+- 🌱 I’m currently learning more about AI and machine learning
+- 📖 I’m looking to learn more about niche use cases for AI
+- 🥅 2024 - 2025 Goals: Contribute more to the open source community
 - ⚡ Fun fact: I enjoy sketching and playing many Instruments
 
 <br />
